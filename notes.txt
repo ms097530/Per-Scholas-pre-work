@@ -1,0 +1,35 @@
+Per Scholas pre-work requirements
+
+Day 1
+- name in the title (browser tab)
+- h2 containing name
+- h3 containing welcome message
+- paragraph with a few sentences about yourself
+- image to represent yourself
+- link image or some text on page to external website
+- list (ol or ul) to tell about favorite projects, things you find interesting, etc.
+
+Day 2
+- add 2nd page to website and connect the two to make a website to tell us more about you (hobby, fave show, interesting fact, etc.)
+- create navbar and link two pages (needs to be on both pages)
+- make sure headings look similar
+- add table to one of the pages
+- add or embed a multimedia element
+- change default color OR font of headings AND paragraphs
+
+Day 3
+- create folder structure for website
+- create single style.css file and move styling there (styles both pages)
+- make sure both pages have:
+	a. same bg color
+	b. same style for h1, h3
+	c. same font in both pages
+	d. same layout/box model applied
+- add a form on one of the pages (ask visitors for suggestions or something?)
+- use id selector to style a paragraph on one page
+
+Day 4
+- make sure all required HTML tags have been included thus far
+- use 2+ position properties for images and divs
+- change default display property of at least two elements
+- submit assignment on Canvas? 

@@ -1,0 +1,102 @@
+body
+{
+    margin: 0;
+    background-color: rgba(0, 200, 40, 0.25);
+    display: grid;
+    place-items: center;
+}
+
+main
+{
+    max-width: 1080px;
+    margin-inline: 2rem;
+    /* padding-inline: 2rem;
+    margin: auto; */
+
+}
+
+a
+{
+    color: purple;
+}
+
+/* Day 2 */
+/* change color of headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    color: navy;
+}
+
+img
+{
+    width: 100%;
+}
+
+table
+{
+    padding: 1rem;
+}
+
+table,
+td
+{
+    border: 1px solid;
+}
+
+th
+{
+    border: 1px dotted navy;
+    padding: 0.5rem 1rem;
+}
+
+td
+{
+    text-align: right;
+    padding: 0.5rem 0.25rem;
+}
+
+/* Day 2 */
+/* change color of paragraphs */
+p
+{
+    color: darkblue;
+}
+
+.name
+{
+    text-decoration: underline;
+}
+
+.favorites__list
+{
+    font-style: italic;
+    position: static;
+}
+
+.img-container
+{
+    max-width: 400px;
+    position: relative;
+}
+
+/* set display properties */
+img
+{
+    display: inline-block;
+}
+
+button
+{
+    display: block;
+}
+
+#story__1
+{
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
